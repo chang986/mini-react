@@ -143,7 +143,7 @@ const ReactDOM = {
 
 ReactDOM.createRoot(document.querySelector('#root')).render(App)
 ```
-这次比较顺利，上面是最终完成的代码（此时还在沾沾自喜）
+这次比较顺利，上面是最终完成的代码
 
 5、重新看视频
 
