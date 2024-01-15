@@ -12,6 +12,7 @@ export default defineConfig({
         default: resolve(__dirname, 'index.html'),
         v01: resolve(__dirname, 'example/day01/index.html'),
         v02: resolve(__dirname, 'example/day02/index.html'),
+        v03: resolve(__dirname, 'example/day03/index.html'),
       },
       outDir: 'dist',
     },
